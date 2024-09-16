@@ -1,2 +1,2 @@
-# notes
-My notes
+# My notes repo
+My notes about whatever
