@@ -4,7 +4,7 @@ My notes about everything.
 Use backtick like this \`something\` to show code snippets  
 It will show like this: `something`
 
-\#\# are used for second level titles
+\#\# are used for second level titles.
 
 
 ## Experiments
