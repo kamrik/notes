@@ -1,5 +1,5 @@
 # My notes repo
-My notes about everything
+My notes about everything.
 
 Use backtick like this \`something\` to show code snippets  
 It will show like this: `something`
