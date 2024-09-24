@@ -9,16 +9,16 @@ It will show like this: `something`
 
 ## Search Experiments
 Try searching for the word "line"  
-And add anoter line
+And add anoter line, one line
 
 ```
 Line
 line
-lines
-line 5
-line-7
-line72
-line73.4
+another, long - lines
+another, long - line 5
+another, long - line-7
+another, long - line72
+another, long - line73.4
 end of line
 end-of-line
 outline
