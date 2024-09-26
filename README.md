@@ -62,3 +62,14 @@ https://pages-themes.github.io/architect/
 - [jekyll-theme-slate](https://pages-themes.github.io/slate/)
 - [jekyll-theme-tactile](https://pages-themes.github.io/tactile/)
 - [jekyll-theme-time-machine](https://pages-themes.github.io/time-machine/)
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
+- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
