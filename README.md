@@ -1,4 +1,7 @@
 # My notes repo
+
+GitHub.io address for this page - https://kamrik.github.io/notes 
+
 My notes about everything.
 
 Use backtick like this \`something\` to show code snippets  
