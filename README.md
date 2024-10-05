@@ -1,18 +1,18 @@
 # My notes repo
 
-GitHub.io address for this page - https://kamrik.github.io/notes 
+GitHub.io address for this page - https://kamrik.github.io/notes
 
 My notes about everything.
 
-Use backtick like this \`something\` to show code snippets  
+Use backtick like this \`something\` to show code snippets
 It will show like this: `something`
 
 \#\# are used for second level titles.
 
 
 ## Search Experiments
-Try searching for the word "line"  
-And add anoter line, one line
+Try searching for the word "line"\ \
+And add another line, one line
 
 line 7
 
@@ -42,7 +42,7 @@ Lists
 
 
 - !
-- @ alias 
+- @ alias
 - \#
 - $
 - %
