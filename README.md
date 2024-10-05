@@ -39,7 +39,7 @@ linear
 https://pages.github.com/themes/
 https://pages-themes.github.io/architect/
 
-
+All themes
 - [jekyll-theme-architect](https://pages-themes.github.io/architect/)
 - [jekyll-theme-cayman](https://pages-themes.github.io/cayman/)
 - [jekyll-theme-dinky](https://pages-themes.github.io/dinky/)
