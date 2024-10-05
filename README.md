@@ -34,22 +34,6 @@ linear
 
 [link text](example.com)
 
-Lists
-- item
-- item
-
-~/.
-
-
-- !
-- @ alias
-- \#
-- $
-- %
-- ^
-- &*()_+
-- 00
-
 
 ### GitHub pages themes
 https://pages.github.com/themes/
