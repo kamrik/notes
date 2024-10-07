@@ -1,5 +1,7 @@
 # My notes repo
 
+- [CLI command notes](docs/cli.md)
+
 GitHub.io address for this page - https://kamrik.github.io/notes
 
 My notes about everything.
