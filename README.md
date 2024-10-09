@@ -1,24 +1,33 @@
 # My notes repo
+
+- [CLI command notes](docs/cli.md)
+
+GitHub.io address for this page - https://kamrik.github.io/notes
+
 My notes about everything.
 
-Use backtick like this \`something\` to show code snippets  
+Use backtick like this \`something\` to show code snippets
 It will show like this: `something`
 
 \#\# are used for second level titles.
 
 
 ## Search Experiments
-Try searching for the word "line"  
-And add anoter line, one line
+Try searching for the word "line"\ \
+And add another line, one line
+
+line 9
+
+
 
 ```
 Line
 line
-another, long - lines
-another, long - line 5
-another, long - line-7
-another, long - line72
-another, long - line73.4
+lines
+line 5
+line-7
+line72
+line7348686887876876876887
 end of line
 end-of-line
 outline
@@ -27,28 +36,12 @@ linear
 
 [link text](example.com)
 
-Lists
-- item
-- item
-
-~/.
-
-
-- !
-- @ alias 
-- \#
-- $
-- %
-- ^
-- &*()_+
-- 00
-
 
 ### GitHub pages themes
 https://pages.github.com/themes/
 https://pages-themes.github.io/architect/
 
-
+All themes
 - [jekyll-theme-architect](https://pages-themes.github.io/architect/)
 - [jekyll-theme-cayman](https://pages-themes.github.io/cayman/)
 - [jekyll-theme-dinky](https://pages-themes.github.io/dinky/)
