@@ -1,3 +1,2 @@
-# something in here
-
-`ls` is for listing files
+# Useful CLI commands 
+- `ls` list files, add `-a` option to show all file including hidden, and `-l` to show file sizes and timestamps
