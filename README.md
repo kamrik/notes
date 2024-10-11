@@ -1,6 +1,7 @@
 # My notes repo
 
 - [CLI command notes](docs/cli.md)
+- [Config notes](config/cfg.md)
 
 GitHub.io address for this page - https://kamrik.github.io/notes
 
@@ -10,6 +11,7 @@ Use backtick like this \`something\` to show code snippets
 It will show like this: `something`
 
 \#\# are used for second level titles.
+
 
 
 ## Search Experiments
