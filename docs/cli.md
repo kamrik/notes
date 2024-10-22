@@ -2,6 +2,7 @@
 layout: post
 date: 2024-10-21
 tags: comp1238, cli
+author: Mark
 ---
 
 # Useful CLI commands 
