@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Mickey Mouse",
+    "something": "else"
+  },
+  {
+    "name": "Goofy",
+    "position": "quarterback" // string
+  }
+]
