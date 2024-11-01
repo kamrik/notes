@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Romanian Furrow", // sting
+    "published": 1933, // number
+    "isForLoan": false, // bolean
+    "author": { "name": "Hall, D.J.", "born": 1908 }, // object
+    "eidtions": [1933, 1937, 1970], // array
+    "backCopy": null // null
+  },
+
+  {
+    "stringExample": "Hello World",
+    "numberExample1": 42,
+    "numberExample2": 3.14,
+    "booleanExample": true,
+    "nullExample": null,
+    "arrayExample1": [1, 2, 3],
+    "objectExample": {
+      "property1": "value1",
+      "property2": "value2"
+    }
+  }
+]
