@@ -67,6 +67,7 @@ Shortcuts I frequently use:
 Shortcuts I would like to start using: 
 - Ctrl-A (select all)
 - Win-D (show desktop)
+- Ctrl-Shift-V - paste into terminal
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
 
 ## Assignment 1
