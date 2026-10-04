@@ -5,7 +5,7 @@
 
 GitHub.io address for this page - https://kamrik.github.io/notes
 
-My notes about everything.
+My notes about everything - v2
 
 Use backtick like this \`something\` to show code snippets
 It will show like this: `something`
